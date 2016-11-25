@@ -1,0 +1,21 @@
+.banner{
+  width: 100%;
+  height: 400px;
+  background-image: url("../img/landing.jpg");
+}
+#p{
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+
+}
+.container{
+  background: url(../img/breakfast.jpg)top right no-repeat,
+  url(../img/lunch.jpg)middle no repeat,
+  url(../img/dinner2.jpg)top left no repeat,
+}
+.banner2{
+  width: 100%;
+  height: 400px;
+  background-image: url("../img/foodsBg.jpg");
+}
